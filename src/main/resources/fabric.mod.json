@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "ae",
+  "version": "1.0.0",
+  "name": "Aetherial Expansion",
+  "description": "Magic systems, worldgen, and more.",
+  "authors": ["Chow"],
+  "contact": {
+    "sources": ""
+  },
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.chow.AE.AE"],
+    "client": ["com.chow.AE.AEClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.22",
+    "minecraft": "~1.20.1",
+    "fabric-api": "*"
+  },
+  "mixins": [],
+  "accessWidener": ""
+}

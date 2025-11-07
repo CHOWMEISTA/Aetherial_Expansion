@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    { "item": "minecraft:book" }
+  ],
+  "result": { "item": "ae:example_item", "count": 1 }
+}

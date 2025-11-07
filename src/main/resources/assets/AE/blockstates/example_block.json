@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ae:block/example_block" }
+  }
+}
